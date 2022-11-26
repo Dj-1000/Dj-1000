@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dj-1000
 - 👀 I’m interested in software development.
-- 🌱 Im currenlty learning data structures and working on a projecft based on speech recognition using python.
+- 🌱 Im currenlty learning data structures and working on a project based on speech recognition using python.
 
 
 
