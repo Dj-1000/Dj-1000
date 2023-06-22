@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dj-1000
-- 👀 I’m interested in software development.
-- 🌱 Im currenlty learning data structures and working on a machine learning project using python.
+- 👋 Hi, I’m Dheeraj Sharma
+- 👀 I’m an upcoming developer and data science enthusiast. 
+- 🌱 Currently, I am learning new tools to help me develop my data analytics skills and gaining practical experience.  
 
 
 
