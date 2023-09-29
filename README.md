@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj Sharma
-- 👀 I’m an upcoming developer and data science enthusiast. 
-- 🌱 Currently, I am learning new tools to help me develop my data analytics skills and gaining practical experience.  
+- 👀 I’m a Python Backend Developer. 
+- 🌱 My expertise involve managing APIs using Django Rest framework. 
 
 
 
