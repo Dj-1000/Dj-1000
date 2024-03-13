@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj Sharma
 - 👀 I’m a Python Backend Developer. 
-- 🌱 My expertise involve managing APIs using Django Rest framework. 
+- 🌱 My expertise involves Django back-end framework and Machine Learning NLP app development.
 
 
 
