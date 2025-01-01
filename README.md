@@ -6,8 +6,8 @@
   "birthday": "1993-08-18",
   "country":  "France",
   "city":     "Montpellier",
-  "stack":    ["Javascript", "Swift", "Go", "PHP", "Python", "..."],
-  "interest": ["Tech", "Running", "Cycling", "Hiking", "Photography", "..."]
+  "stack":    ["Javascript", "Python", "Go", "Docker", "AWS", "..."],
+  "interest": ["Tech", "Running", "Cycling", "Hiking", "..."]
 }
 ```
 
