@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate-svg:
@@ -19,4 +19,4 @@ jobs:
       - name: generate SVG
         uses: cyprieng/github-breakout@v0.0.1
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_username: ${{ github.repository_owner }}
