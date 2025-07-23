@@ -22,3 +22,10 @@ For more details on me: [cyprien.io](https://www.cyprien.io)
 </picture>
 
 _Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
+
+---
+
+### ✏️ Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
