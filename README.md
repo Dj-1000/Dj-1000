@@ -1,7 +1,7 @@
 # 🐍 Dheeraj Sharma | Python Backend Wizard 
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A8FEF6&center=true&vCenter=true&width=940&lines=Hi+folks!%2C+Welcome+to+my+Github+profile;Python+Backend+Developer+%7C+Django+Expert;AI+and+Machine+Learning+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A8FEF6&center=true&vCenter=true&width=940&lines=Hi+folks!+Welcome+to+my+Github+profile;Python+Backend+Developer+%7C+Django+Expert;AI+and+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- Breakout Game Animation -->
