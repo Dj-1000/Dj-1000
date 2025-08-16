@@ -53,11 +53,11 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dj-1000&theme=tokyonight&hide_border=true" width="800" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dj-1000&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dj-1000&show_icons=true&theme=tokyonight&hide_border=true" width="800" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dj-1000&show_icons=true&theme=tokyonight&hide_border=true" width="500" alt="github stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dj-1000&layout=compact&theme=tokyonight&hide_border=true" width="800" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dj-1000&layout=compact&theme=tokyonight&hide_border=true" width="500" alt="top langs"/>
 
 </div>
 
