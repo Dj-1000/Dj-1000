@@ -56,7 +56,7 @@ me.say_hi()
     <img src="https://streak-stats.vercel.app/?user=Dj-1000&theme=tokyonight&hide_border=true&mode=weekly" width=500 alt="GitHub Streak"/>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dj-1000&show_icons=true&theme=tokyonight&hide_border=true" width=500 alt="github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dj-1000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width=500 alt="github stats"/>
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dj-1000&layout=compact&theme=tokyonight&hide_border=true" width=500 alt="top langs"/>
