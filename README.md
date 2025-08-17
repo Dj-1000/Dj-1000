@@ -53,7 +53,7 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=Dj-1000&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak"/>
+<img src="https://streak-stats.vercel.app/?user=Dj-1000&theme=tokyonight&hide_border=true&mode=weekly" width="500" alt="GitHub Streak"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dj-1000&show_icons=true&theme=tokyonight&hide_border=true" width="500" alt="github stats"/>
 
