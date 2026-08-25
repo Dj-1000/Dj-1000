@@ -121,13 +121,13 @@ class DheerajSharma:
   They render only AFTER you've run the Action once (repo → Actions → Run workflow).
   Branch is assumed to be "main"; change /main/ to /master/ if yours is master.
 -->
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=2" width="98%" alt="Profile overview" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="Profile overview" />
 
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
 
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Languages by repo" />
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Languages by commits" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Languages by repo" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Languages by commits" />
 
 </div>
 
