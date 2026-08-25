@@ -22,7 +22,7 @@
 <!-- ─────────────────────────  HEADER  ───────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B7A6E,50:15A497,100:2AD1BE&height=200&section=header&text=Dheeraj%20Sharma&fontSize=54&fontColor=EAF7F4&fontAlignY=36&desc=Python%20Backend%20Developer%20·%20APIs%20·%20Data%20%26%20ML&descSize=18&descAlignY=60&descColor=BDECE4" width="100%" alt="Dheeraj Sharma — Python Backend Developer" />
+<img src="https://capsule-render.vercel.app/api?rofile-summary-card-outputtype=waving&color=0:0B7A6E,50:15A497,100:2AD1BE&height=200&section=header&text=Dheeraj%20Sharma&fontSize=54&fontColor=EAF7F4&fontAlignY=36&desc=Python%20Backend%20Developer%20·%20APIs%20·%20Data%20%26%20ML&descSize=18&descAlignY=60&descColor=BDECE4" width="100%" alt="Dheeraj Sharma — Python Backend Developer" />
 
 <a href="https://github.com/Dj-1000">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2AD1BE&center=true&vCenter=true&width=720&height=42&lines=Designing+and+shipping+Python+backends;Django+%7C+DRF+%7C+FastAPI+%7C+PostgreSQL;Turning+data+and+ideas+into+working+APIs" alt="What I do" />
@@ -121,13 +121,13 @@ class DheerajSharma:
   They render only AFTER you've run the Action once (repo → Actions → Run workflow).
   Branch is assumed to be "main"; change /main/ to /master/ if yours is master.
 -->
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="Profile overview" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=2" width="98%" alt="Profile overview" />
 
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time" />
 
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Languages by repo" />
-<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Languages by commits" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Languages by repo" />
+<img src="https://raw.githubusercontent.com/Dj-1000/Dj-1000/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Languages by commits" />
 
 </div>
 
