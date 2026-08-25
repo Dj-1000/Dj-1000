@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────────────────────────
+#  OPTIONAL — "set it and forget it" stats, no Vercel required.
+#  Place this file at:  .github/workflows/generate-stats.yml
+#
+#  It works exactly like your breakout workflow: a GitHub Action
+#  generates the stat cards as real SVG files, commits them to your
+#  repo, and never hits GitHub's public-API rate limit (it uses the
+#  repo's own token). Nothing external to break.
+#
+#  After the first run, embed the cards in your README like this:
+#    ![](./profile-summary-card-output/github_dark/0-profile-details.svg)
+#    ![](./profile-summary-card-output/github_dark/3-stats.svg)
+#    ![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+#    ![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+#    ![](./profile-summary-card-output/github_dark/4-productive-time.svg)
+#  (swap "github_dark" for any supported theme: dracula, radical, nord_dark, monokai …)
+# ─────────────────────────────────────────────────────────────
+name: generate stats cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"     # every day at 01:00 UTC (after your breakout job)
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write         # this is what lets the bot commit the SVGs back
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # built-in token, no PAT needed
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5        # roughly India (IST). change if you like.
